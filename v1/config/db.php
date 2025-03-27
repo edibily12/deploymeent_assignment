@@ -1,8 +1,8 @@
 <?php
 return [
     'host' => 'localhost',
-    'username' => 'test',
-    'password' => '123456',
-    'database' => 'testwp',
+    'username' => 'api_user',
+    'password' => 'StrongPassword123!',
+    'database' => 'api_db',
     'charset' => 'utf8mb4'
 ];
