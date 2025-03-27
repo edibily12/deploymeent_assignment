@@ -1,8 +1,8 @@
 <?php
 return [
     'host' => 'localhost',
-    'username' => 'admin',
-    'password' => 'mansoln1996',
+    'username' => 'test',
+    'password' => '123456',
     'database' => 'testwp',
     'charset' => 'utf8mb4'
 ];
